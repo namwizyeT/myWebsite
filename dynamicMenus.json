@@ -1,0 +1,16 @@
+[
+        {
+            "title" : "About Me",
+            "url" : "#about"
+        },
+        
+        {
+            "title" : "Skills",
+            "url" : "#skills"
+        },
+        
+        {
+            "title" : "Contact Me",
+            "url" : "#contact"
+        }
+    ]
